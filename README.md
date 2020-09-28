@@ -9,13 +9,13 @@
 3. Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403388)
 4. Streaming Graph Neural Networks. SIGIR'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401092)
 
-## Others
+## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
 3. Infer Implicit Contexts in Real-time Online-to-Offline Recommendation. KDD'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330716)
 4. Temporal-Contextual Recommendation in Real-Time. KDD'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
 
-## squential RS
+## Squential RS
 1. Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403329)
 
 ## Attention
