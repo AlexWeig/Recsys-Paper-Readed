@@ -18,4 +18,5 @@
 
 ## squential RS
 1. Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403329)
+
 Sum: 10
