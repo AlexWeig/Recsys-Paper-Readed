@@ -16,6 +16,7 @@
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
 3. Infer Implicit Contexts in Real-time Online-to-Offline Recommendation. KDD'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330716)
 4. Temporal-Contextual Recommendation in Real-Time. KDD'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
+5. Real-time Personalization using Embeddings for Search Ranking at Airbnb. KDD'18 [paper](https://dl.acm.org/doi/10.1145/3219819.3219885) **Best paper 18'**
 
 ## Squential RS
 1. Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403329)
@@ -23,4 +24,6 @@
 ## Attention
 1. Effective Approaches to Attention-based Neural Machine Translation. [paper](https://arxiv.org/pdf/1508.04025.pdf)
 
-Sum: 13
+## Others
+1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
+Sum: 16
