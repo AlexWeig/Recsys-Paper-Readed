@@ -8,6 +8,7 @@
 2. Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba. KDD'18. [paper](https://dl.acm.org/doi/10.1145/3219819.3219869)
 3. Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403388)
 4. Streaming Graph Neural Networks. SIGIR'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401092)
+5. Neural Graph Collaborative Filtering. SIGIR'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267) [code](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
 
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
@@ -21,4 +22,4 @@
 ## Attention
 1. Effective Approaches to Attention-based Neural Machine Translation. [paper](https://arxiv.org/pdf/1508.04025.pdf)
 
-Sum: 10
+Sum: 11
