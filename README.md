@@ -23,4 +23,4 @@
 ## Attention
 1. Effective Approaches to Attention-based Neural Machine Translation. [paper](https://arxiv.org/pdf/1508.04025.pdf)
 
-Sum: 12
+Sum: 13
