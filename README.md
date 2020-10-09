@@ -27,5 +27,6 @@
 
 ## Others
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
+2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-Sum: 17
+Sum: 18
