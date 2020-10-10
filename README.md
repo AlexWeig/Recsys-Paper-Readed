@@ -19,7 +19,7 @@
 4. Temporal-Contextual Recommendation in Real-Time. KDD'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
 5. Real-time Personalization using Embeddings for Search Ranking at Airbnb. KDD'18 [paper](https://dl.acm.org/doi/10.1145/3219819.3219885) **Best paper 18'**
 
-## Heterogeneous network
+## Heterogeneous Network
 1. Representation Learning for Attributed Multiplex Heterogeneous Network. KDD'19 [link](https://dl.acm.org/doi/pdf/10.1145/3292500.3330964)
 
 ## Squential RS
