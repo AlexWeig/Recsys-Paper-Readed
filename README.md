@@ -19,6 +19,9 @@
 4. Temporal-Contextual Recommendation in Real-Time. KDD'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
 5. Real-time Personalization using Embeddings for Search Ranking at Airbnb. KDD'18 [paper](https://dl.acm.org/doi/10.1145/3219819.3219885) **Best paper 18'**
 
+## heterogeneous network
+1. Representation Learning for Attributed Multiplex Heterogeneous Network. KDD'19 [link](https://dl.acm.org/doi/pdf/10.1145/3292500.3330964)
+
 ## Squential RS
 1. Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403329)
 
@@ -29,4 +32,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-Sum: 18
+Sum: 19
