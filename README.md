@@ -21,6 +21,7 @@
 7. DyRep: Learning Representations over Dynamic Graphs.ICLR'19 [paper](https://openreview.net/forum?id=HyePrhR5KX)
 8. Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330895)
 9. Dynamic Network Embeddings: From Random Walks to Temporal Random Walks. 18 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8622109)
+10. Representation Learning for Dynamic Graphs: A Survey. 20 [paper](https://jmlr.org/papers/volume21/19-447/19-447.pdf)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
@@ -41,4 +42,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-Sum: 28
+Sum: 29
