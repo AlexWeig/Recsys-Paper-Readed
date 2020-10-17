@@ -11,7 +11,10 @@
 5. Neural Graph Collaborative Filtering. SIGIR'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267) [code](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
 6. A Comprehensive Survey on Graph Neural Networks. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046288)
 7. GCN for Web-Scale Recommender Systems. KDD'18 [paper](https://dl.acm.org/doi/10.1145/3219819.3219890) [ppt](https://pdfs.semanticscholar.org/d154/dd56fcdbe4ef019aeab475f4bf686573380e.pdf)
-8. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)
+## DG RS
+1. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)
+2. DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks. WSDM'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)
+3. EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs. [paper](https://arxiv.org/pdf/1902.10191.pdf) [code](https://arxiv.org/abs/1902.10191)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
