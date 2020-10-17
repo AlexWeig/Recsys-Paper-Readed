@@ -12,7 +12,7 @@
 6. A Comprehensive Survey on Graph Neural Networks. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046288)
 7. GCN for Web-Scale Recommender Systems. KDD'18 [paper](https://dl.acm.org/doi/10.1145/3219819.3219890) [ppt](https://pdfs.semanticscholar.org/d154/dd56fcdbe4ef019aeab475f4bf686573380e.pdf)
 ## DG RS
-1. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)
+1. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf) [code](https://arxiv.org/abs/1902.09362)
 2. DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks. WSDM'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)
 3. EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs. [paper](https://arxiv.org/pdf/1902.10191.pdf) [code](https://arxiv.org/abs/1902.10191)
 4. Temporal Graph Networks for Deep Learning on Dynamic Graphs. 20 [paper](https://arxiv.org/pdf/2006.10637.pdf) [code](https://arxiv.org/abs/2006.10637#:~:text=In%20this%20paper%2C%20we%20present%20Temporal%20Graph%20Networks,being%20at%20the%20same%20time%20more%20computationally%20efficient.)
