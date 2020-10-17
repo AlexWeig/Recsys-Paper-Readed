@@ -15,6 +15,7 @@
 1. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)
 2. DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks. WSDM'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)
 3. EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs. [paper](https://arxiv.org/pdf/1902.10191.pdf) [code](https://arxiv.org/abs/1902.10191)
+4. Temporal Graph Networks for Deep Learning on Dynamic Graphs. 20 [paper](https://arxiv.org/pdf/2006.10637.pdf) [code](https://arxiv.org/abs/2006.10637#:~:text=In%20this%20paper%2C%20we%20present%20Temporal%20Graph%20Networks,being%20at%20the%20same%20time%20more%20computationally%20efficient.)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
@@ -35,4 +36,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-Sum: 19
+Sum: 23
