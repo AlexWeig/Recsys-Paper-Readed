@@ -27,6 +27,7 @@
 13. Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403373)
 14. Network embedding and change modeling in dynamic heterogeneous networks. SIGIR'19 [paper](https://sci-hub.tf/https://doi.org/10.1145/3331184.3331273)
 15. Structured Sequence Modeling with Graph Convolutional Recurrent Networks. 16 [paper and code](https://arxiv.org/abs/1612.07659)
+16. Dyrep: Learning representations over dynamic graphs. ICLR 2019 [paper](https://par.nsf.gov/servlets/purl/10099025)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
@@ -47,4 +48,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-Sum: 34
+Sum: 35
