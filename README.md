@@ -23,7 +23,7 @@
 9. Dynamic Network Embeddings: From Random Walks to Temporal Random Walks. 18 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8622109)
 10. Representation Learning for Dynamic Graphs: A Survey. 20 [paper](https://jmlr.org/papers/volume21/19-447/19-447.pdf)
 11. Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity. TKDE 2020 [paper](http://www.shichuan.org/doc/89.pdf) [code](https://github.com/rootlu/DyHNE)
-12. Laplacian Change Point Detection for Dynamic Graphs. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403077) [code](https://github.com/shenyangHuang/LAD)\
+12. Laplacian Change Point Detection for Dynamic Graphs. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403077) [code](https://github.com/shenyangHuang/LAD)
 13. Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403373)
 14. Network embedding and change modeling in dynamic heterogeneous networks. SIGIR'19 [paper](https://sci-hub.tf/https://doi.org/10.1145/3331184.3331273)
 15. Structured Sequence Modeling with Graph Convolutional Recurrent Networks. 16 [paper and code](https://arxiv.org/abs/1612.07659)
