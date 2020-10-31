@@ -11,7 +11,7 @@
 5. Neural Graph Collaborative Filtering. SIGIR'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267) [code](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
 6. A Comprehensive Survey on Graph Neural Networks. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046288)
 7. GCN for Web-Scale Recommender Systems. KDD'18 [paper](https://dl.acm.org/doi/10.1145/3219819.3219890) [ppt](https://pdfs.semanticscholar.org/d154/dd56fcdbe4ef019aeab475f4bf686573380e.pdf)
-## DG RS
+## DG
 1. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf) [code](https://arxiv.org/abs/1902.09362)
 2. DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks. WSDM'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845) [code](https://github.com/aravindsankar28/DySAT)
 3. EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs. [paper](https://arxiv.org/pdf/1902.10191.pdf) [code](https://arxiv.org/abs/1902.10191)
@@ -30,6 +30,7 @@
 16. Dyrep: Learning representations over dynamic graphs. ICLR 2019 [paper](https://par.nsf.gov/servlets/purl/10099025)
 17. Dynamic Link Prediction by Integrating Node Vector Evolution and Local Neighborhood Representation. SIGIR'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401222)
 18. Neural Dynamics on Complex Networks.KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403132)
+19. Dynamic Knowledge Graph based Multi-Event Forecasting. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403209)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
@@ -50,4 +51,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-## Sum: 38
+## Sum: 37
