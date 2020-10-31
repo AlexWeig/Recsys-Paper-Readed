@@ -29,6 +29,7 @@
 15. Structured Sequence Modeling with Graph Convolutional Recurrent Networks. 16 [paper and code](https://arxiv.org/abs/1612.07659)
 16. Dyrep: Learning representations over dynamic graphs. ICLR 2019 [paper](https://par.nsf.gov/servlets/purl/10099025)
 17. Dynamic Link Prediction by Integrating Node Vector Evolution and Local Neighborhood Representation. SIGIR'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401222)
+18. Neural Dynamics on Complex Networks.KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403132)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
@@ -49,4 +50,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-Sum: 37
+## Sum: 38
