@@ -1,4 +1,4 @@
-# Recsys-Paper-Readed
+# Recsys-Paper-
 
 ## Learning to rank
 1. Controlling Fairness and Bias in Dynamic Learning-to-Rank. SIGIR'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401100) 
