@@ -34,6 +34,7 @@
 20. Learning Dynamic Context Graphs for Predicting Social Events. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330919)
 21. Session-Based Social Recommendation via Dynamic Graph Attention Networks. WSDM'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3289600.3290989)
 22. Streaming Link Prediction on Dynamic Attributed Networks. WSDM'18 [paper](https://dl.acm.org/doi/pdf/10.1145/3159652.3159674)
+23. Dynamic graph convolutional networks. Pattern Recognition'20 [paper](https://sci-hub.tf/https://doi.org/10.1016/j.patcog.2019.107000)
 ## Real-Time
 1. Real-time Attention Based Look-alike Model for Recommender System. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)
 2. Streaming Session-based Recommendation. KDD'19 [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)
@@ -54,4 +55,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-## Sum: 41
+## Sum: 42
