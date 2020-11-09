@@ -47,6 +47,7 @@
 
 ## Squential RS
 1. Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403329)
+2. Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations. 20 [paper&code](https://arxiv.org/abs/1905.01997)
 
 ## Attention
 1. Effective Approaches to Attention-based Neural Machine Translation. [paper](https://arxiv.org/pdf/1508.04025.pdf)
@@ -55,4 +56,4 @@
 1. On Sampled Metrics for Item Recommendation. KDD'20 [paper](https://dl.acm.org/doi/10.1145/3394486.3403226) **Best Papar 20'**
 2. Inductive Representation Learning on Large Graphs. NIPS'17 [paper](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
 
-## Sum: 42
+## Sum: 43
